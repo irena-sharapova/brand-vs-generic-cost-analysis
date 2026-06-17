@@ -1,18 +1,31 @@
 # Brand vs Generic Cost Efficiency Analysis
 
-## Project Overview
+## Dashboard Overview
 
-This Business Intelligence project analyzes Medicare Part D prescription data to compare brand-name and generic medication costs across U.S. states.
+![Dashboard](Dashboard.png)
 
-The analysis focuses on three widely prescribed medication pairs:
+🔗 **Interactive Tableau Dashboard:**
+https://public.tableau.com/views/BrandvsGenericCostEfficencyAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-* Lipitor vs Atorvastatin – Used to manage high cholesterol and reduce cardiovascular risk.
-* Plavix vs Clopidogrel – Commonly prescribed to prevent blood clots, heart attacks, and strokes.
-* Nexium vs Esomeprazole – Frequently used to treat acid reflux and other gastrointestinal conditions.
+---
 
-These medications were chosen because both brand-name and generic alternatives were widely prescribed in the Medicare Part D dataset, allowing for a meaningful comparison of utilization patterns, prescription costs, and potential savings opportunities.
+## Business Problem
 
-The goal was to identify cost differences, utilization patterns, and potential healthcare savings opportunities.
+Brand-name medications often cost significantly more than generic alternatives, creating opportunities for healthcare cost optimization. This project analyzes Medicare Part D prescription data to compare utilization patterns and costs between brand-name and generic medications across U.S. states.
+
+---
+
+## Why These Medication Pairs?
+
+Three widely prescribed brand-name and generic medication pairs were selected because they represent common treatments across major healthcare categories and provide meaningful opportunities for cost comparison.
+
+* **Lipitor vs Atorvastatin** – High cholesterol treatment
+* **Plavix vs Clopidogrel** – Cardiovascular and stroke prevention
+* **Nexium vs Esomeprazole** – Gastrointestinal treatment
+
+These medications were chosen because both brand and generic alternatives were widely prescribed in the Medicare Part D dataset, allowing for meaningful analysis of utilization patterns, prescription costs, and potential savings opportunities.
+
+---
 
 ## Tools Used
 
@@ -21,26 +34,46 @@ The goal was to identify cost differences, utilization patterns, and potential h
 * Tableau
 * Excel
 
+---
+
 ## Key Findings
 
-* Generic medications accounted for 86.6% of prescription utilization.
-* Generic prescriptions cost approximately 93% less per claim than brand-name alternatives.
-* Potential savings exceeded $1.3 billion through increased generic substitution.
-* Generic utilization exceeded 78% in every state analyzed.
+* Generic medications accounted for **86.6%** of prescription utilization.
+* Generic prescriptions cost approximately **93% less per claim** than brand-name alternatives.
+* Potential savings exceeded **$1.3 billion** through increased generic substitution.
+* Generic utilization exceeded **78%** in every state analyzed.
 
-## Tableau Dashboard
+### Key Findings Visualization
 
-[Tableau Public dashboard link:](https://public.tableau.com/views/BrandvsGenericCostEfficencyAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Key Findings](Key Findings.png)
+
+---
+
+## Business Recommendations
+
+1. Promote generic substitution where clinically appropriate.
+2. Focus on high-volume medications with the largest savings opportunities.
+3. Monitor state-level prescribing patterns.
+4. Support physician and patient education regarding generic alternatives.
+
+### Recommendations Slide
+
+![Business Recommendations](Business Recommendations.png)
+
+---
 
 ## Project Files
 
-* Project Presentation (PDF)
+* Presentation PDF
+* Tableau Dashboard
 * Dashboard Screenshot
-* Key Findings
+* Key Findings Analysis
 * Business Recommendations
 * SQL Query
 
+---
+
 ## Author
 
-Irina Sharapova
+**Irina Sharapova**
 Business Intelligence & Data Analyst

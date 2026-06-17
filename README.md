@@ -6,9 +6,11 @@ This Business Intelligence project analyzes Medicare Part D prescription data to
 
 The analysis focuses on three widely prescribed medication pairs:
 
-* Lipitor vs Atorvastatin
-* Plavix vs Clopidogrel
-* Nexium vs Esomeprazole
+* Lipitor vs Atorvastatin – Used to manage high cholesterol and reduce cardiovascular risk.
+* Plavix vs Clopidogrel – Commonly prescribed to prevent blood clots, heart attacks, and strokes.
+* Nexium vs Esomeprazole – Frequently used to treat acid reflux and other gastrointestinal conditions.
+
+These medications were chosen because both brand-name and generic alternatives were widely prescribed in the Medicare Part D dataset, allowing for a meaningful comparison of utilization patterns, prescription costs, and potential savings opportunities.
 
 The goal was to identify cost differences, utilization patterns, and potential healthcare savings opportunities.
 
@@ -28,7 +30,7 @@ The goal was to identify cost differences, utilization patterns, and potential h
 
 ## Tableau Dashboard
 
-Add your Tableau Public dashboard link here.
+[Tableau Public dashboard link:](https://public.tableau.com/views/BrandvsGenericCostEfficencyAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Files
 

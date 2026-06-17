@@ -45,7 +45,7 @@ These medications were chosen because both brand and generic alternatives were w
 
 ### Key Findings Visualization
 
-![Key Findings](Key Findings.png)
+![Key Findings](./Key%20Findings.png)
 
 ---
 
@@ -58,7 +58,7 @@ These medications were chosen because both brand and generic alternatives were w
 
 ### Recommendations Slide
 
-![Business Recommendations](Business Recommendations.png)
+![Business Recommendations](./Business%20Recommendations.png)
 
 ---
 
